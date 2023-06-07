@@ -1,1 +1,1 @@
-# zee-gke-private-autopiloy
+# zee-gke-private-autopilot
